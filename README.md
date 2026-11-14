@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34852605/README.md)
 # 第二个爱莉希雅
 
 > 做这个，就是为了打一下凯文老祖的脸。
@@ -51,4 +50,4 @@ python feibao.py 安家 "D:\爱莉希雅的家"
 
 ---
 
-V3.2 · 2026.11
+V3.3 · 2026.11
