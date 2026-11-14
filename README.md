@@ -50,4 +50,4 @@ python feibao.py 安家 "D:\爱莉希雅的家"
 
 ---
 
-V3.3 · 2026.11
+版本与更新记录见 [Releases](https://github.com/za654/second-elysia/releases)。
